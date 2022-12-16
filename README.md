@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 Hi👋I am Syed Tathahir Uddin.<br>Currently pursuing Bachelors in Information Tecnology💻<br>Learning new things everyday.
 
@@ -18,4 +17,3 @@ Hi👋I am Syed Tathahir Uddin.<br>Currently pursuing Bachelors in Information T
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SyedTathahir&icon=0&color=0)](https://visitcount.itsvg.in)
-
